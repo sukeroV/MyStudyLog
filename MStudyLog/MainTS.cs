@@ -43,12 +43,15 @@ namespace MStudyLog
             //t1AssemblyAndActivator.a();
 
 
-            //
+            //总结怎么使用反射，dll这些
             //ZJclass zJclass = new ZJclass();
 
-            //
-
-
+            //特性的一般使用
+            //T2Attribute t2Attribute = new T2Attribute();
+            
+            //特性的自定义的使用，无参构造，怎么限定
+            T2_2 t2_2 = new T2_2();
+            
         }
     }
 }
