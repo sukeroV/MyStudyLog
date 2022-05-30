@@ -57,6 +57,7 @@
     <Compile Include="220529\Namespace.cs" />
     <Compile Include="220529\T2Operator.cs" />
     <Compile Include="220529\Today TEST.cs" />
+    <Compile Include="220530\T1Stack.cs" />
     <Compile Include="MainTS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

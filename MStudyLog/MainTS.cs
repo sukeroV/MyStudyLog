@@ -1,6 +1,7 @@
 ﻿
 using MStudyLog._220528;
 using MStudyLog._220529;
+using MStudyLog._220530;
 
 namespace MStudyLog
 {
@@ -60,7 +61,14 @@ namespace MStudyLog
             //T2Operator t2 = new T2Operator();
 
             //索引器
-            Indexer indexer = new Indexer();
+            //Indexer indexer = new Indexer();
+
+            //
+            //T1Stack t1Stack = new T1Stack();
+            //t1Stack.setStack("he");
+
+            //
+
 
 
 
