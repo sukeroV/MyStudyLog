@@ -57,6 +57,11 @@ namespace MStudyLog
             //Namespace _namespace = new Namespace();
 
             //运算符重载
+            //T2Operator t2 = new T2Operator();
+
+            //索引器
+            Indexer indexer = new Indexer();
+
 
 
 
