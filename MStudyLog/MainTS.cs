@@ -56,7 +56,8 @@ namespace MStudyLog
             //命名空间
             //Namespace _namespace = new Namespace();
 
-            //
+            //运算符重载
+
 
 
         }
