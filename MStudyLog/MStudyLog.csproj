@@ -53,6 +53,8 @@
     <Compile Include="220528\T2-2.cs" />
     <Compile Include="220528\T2Attribute.cs" />
     <Compile Include="220528\ZJclass.cs" />
+    <Compile Include="220529\Namespace.cs" />
+    <Compile Include="220529\Today TEST.cs" />
     <Compile Include="MainTS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

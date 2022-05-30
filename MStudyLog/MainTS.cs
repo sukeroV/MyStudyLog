@@ -1,5 +1,6 @@
 ﻿
 using MStudyLog._220528;
+using MStudyLog._220529;
 
 namespace MStudyLog
 {
@@ -50,8 +51,14 @@ namespace MStudyLog
             //T2Attribute t2Attribute = new T2Attribute();
             
             //特性的自定义的使用，无参构造，怎么限定
-            T2_2 t2_2 = new T2_2();
+            //T2_2 t2_2 = new T2_2();
             
+            //命名空间
+            //Namespace _namespace = new Namespace();
+
+            //
+
+
         }
     }
 }
