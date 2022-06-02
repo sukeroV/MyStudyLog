@@ -3,6 +3,7 @@ using MStudyLog._220528;
 using MStudyLog._220529;
 using MStudyLog._220530;
 using MStudyLog._220601;
+using MStudyLog._220602;
 
 namespace MStudyLog
 {
@@ -76,6 +77,7 @@ namespace MStudyLog
             //泛型 约束
             //GenericsConstraint<int> genericsConstraint = new GenericsConstraint<int>(1);
 
+            RefOut refOut = new RefOut();
 
         }
     }
