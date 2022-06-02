@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 #endregion
 namespace MStudyLog._220601
 {
-    #region 迭代器完整 1
+#region 迭代器完整 1
     class CustomList : IEnumerable,IEnumerator
     {
         private int[] list;
@@ -47,8 +47,8 @@ namespace MStudyLog._220601
         #endregion
 
     }
-    #endregion
-    #region 迭代器语法糖 2
+#endregion
+#region 迭代器语法糖 2
     class CustomList2 : IEnumerable
     {
         private int[] list;
@@ -69,7 +69,7 @@ namespace MStudyLog._220601
             // yield return list[0] ...[1]
         }
     }
-    #endregion
+#endregion
 
     #region 调用
     public class Iterator
@@ -77,7 +77,7 @@ namespace MStudyLog._220601
         
         public Iterator()
         {
-            #region 1
+#region 1
             CustomList list = new CustomList();
             //foreach本质
             //1.先获取in后面后面的IEnumerable中的方法
@@ -85,8 +85,8 @@ namespace MStudyLog._220601
             {
                  Console.WriteLine(item);
             }
-            #endregion
-            #region 2
+#endregion
+#region 2
             
             CustomList2 customList2 = new CustomList2();
             foreach(int item in customList2)
@@ -94,11 +94,11 @@ namespace MStudyLog._220601
                 Console.WriteLine(item);
             }
             //Console.WriteLine(customList2.GetEnumerator);
-            #endregion
+#endregion
         }
         
 
 
     }
-    #endregion
+#endregion
 }
