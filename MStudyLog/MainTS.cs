@@ -81,8 +81,10 @@ namespace MStudyLog
             //RefOut refOut = new RefOut();
 
             //结构体
-            T2Struct t2Struct = new T2Struct();
+            //T2Struct t2Struct = new T2Struct();
 
+            //交错数组
+            T3StaggeredArray t3StaggeredArray = new T3StaggeredArray();
 
         }
     }
