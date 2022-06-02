@@ -77,7 +77,12 @@ namespace MStudyLog
             //泛型 约束
             //GenericsConstraint<int> genericsConstraint = new GenericsConstraint<int>(1);
 
-            RefOut refOut = new RefOut();
+            //实参测试 
+            //RefOut refOut = new RefOut();
+
+            //结构体
+            T2Struct t2Struct = new T2Struct();
+
 
         }
     }
