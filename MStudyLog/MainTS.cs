@@ -68,9 +68,12 @@ namespace MStudyLog
             //T1Stack t1Stack = new T1Stack();
             //t1Stack.setStack("he");
 
-            //
-            Iterator iterator = new Iterator();
+            //迭代器
+            //Iterator iterator = new Iterator();
 
+
+            //特殊语法
+            T2Special t2Special = new T2Special();
 
 
 
