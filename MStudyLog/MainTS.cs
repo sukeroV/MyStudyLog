@@ -84,7 +84,14 @@ namespace MStudyLog
             //T2Struct t2Struct = new T2Struct();
 
             //交错数组
-            T3StaggeredArray t3StaggeredArray = new T3StaggeredArray();
+            //T3StaggeredArray t3StaggeredArray = new T3StaggeredArray();
+
+            //枚举
+            //T4Enumerate t4Enumerate = new T4Enumerate();
+
+            //枚举练习题
+            T5EnumerateTS t5EnumerateTS = new T5EnumerateTS();
+
 
         }
     }
