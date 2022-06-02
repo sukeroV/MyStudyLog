@@ -33,18 +33,17 @@ namespace MStudyLog
             // T6preprocessing t6Preprocessing = new T6preprocessing();
             // t6Preprocessing.a();
 
-            //31课  反射
+            //31课  反射-1
             // T7Reflection t7Reflection = new T7Reflection();
             // t7Reflection.M();
 
-            //
-            // T7_1reflect t71Reflect = new T7_1reflect();
+            //反射-2
+            //T7_1reflect t71Reflect = new T7_1reflect();
             // t71Reflect.A();
 
             //32课反射关键类
             //T1AssemblyAndActivator t1AssemblyAndActivator = new T1AssemblyAndActivator();
             //t1AssemblyAndActivator.a();
-
 
             //总结怎么使用反射，dll这些
             //ZJclass zJclass = new ZJclass();
@@ -64,18 +63,18 @@ namespace MStudyLog
             //索引器
             //Indexer indexer = new Indexer();
 
-            //
+            //栈
             //T1Stack t1Stack = new T1Stack();
             //t1Stack.setStack("he");
 
             //迭代器
             //Iterator iterator = new Iterator();
 
-
             //特殊语法
-            T2Special t2Special = new T2Special();
+            //T2Special t2Special = new T2Special();
 
-
+            //泛型 约束
+            //GenericsConstraint<int> genericsConstraint = new GenericsConstraint<int>(1);
 
 
         }
