@@ -2,6 +2,7 @@
 using MStudyLog._220528;
 using MStudyLog._220529;
 using MStudyLog._220530;
+using MStudyLog._220601;
 
 namespace MStudyLog
 {
@@ -50,10 +51,10 @@ namespace MStudyLog
 
             //特性的一般使用
             //T2Attribute t2Attribute = new T2Attribute();
-            
+
             //特性的自定义的使用，无参构造，怎么限定
             //T2_2 t2_2 = new T2_2();
-            
+
             //命名空间
             //Namespace _namespace = new Namespace();
 
@@ -68,6 +69,7 @@ namespace MStudyLog
             //t1Stack.setStack("he");
 
             //
+            Iterator iterator = new Iterator();
 
 
 
