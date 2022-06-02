@@ -104,6 +104,8 @@ namespace MStudyLog._220601
             for (int i = 0; i < list.Count; i++) Console.WriteLine("单句语句简略写法:{0}", i);
             Console.WriteLine();
             #endregion
+
+            //////////end
         }
     }
 }
