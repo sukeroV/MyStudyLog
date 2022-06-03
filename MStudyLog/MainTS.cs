@@ -4,6 +4,7 @@ using MStudyLog._220529;
 using MStudyLog._220530;
 using MStudyLog._220601;
 using MStudyLog._220602;
+using MStudyLog._220603;
 
 namespace MStudyLog
 {
@@ -90,8 +91,13 @@ namespace MStudyLog
             //T4Enumerate t4Enumerate = new T4Enumerate();
 
             //枚举练习题
-            T5EnumerateTS t5EnumerateTS = new T5EnumerateTS();
+            //T5EnumerateTS t5EnumerateTS = new T5EnumerateTS();
 
+
+            //测试统计数字位数
+            //NewTS newTS = new NewTS();
+
+            //
 
         }
     }
