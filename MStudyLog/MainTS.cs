@@ -5,6 +5,7 @@ using MStudyLog._220530;
 using MStudyLog._220601;
 using MStudyLog._220602;
 using MStudyLog._220603;
+using MStudyLog._220604;
 
 namespace MStudyLog
 {
@@ -97,7 +98,21 @@ namespace MStudyLog
             //测试统计数字位数
             //NewTS newTS = new NewTS();
 
-            //
+            //集合-Dictionary
+            //T1Dictionary t1Dictionary = new T1Dictionary();
+
+            //集合-hashset
+            //T2HashSet t2HashSet = new T2HashSet();
+
+            //集合-排序集合
+            //T3SortedList t3SortedList = new T3SortedList();
+
+            // 斐波那契数 
+            Ts1Fib ts1Fib = new Ts1Fib(5);
+
+
+
+
 
         }
     }
