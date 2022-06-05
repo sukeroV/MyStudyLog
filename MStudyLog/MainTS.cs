@@ -6,6 +6,7 @@ using MStudyLog._220601;
 using MStudyLog._220602;
 using MStudyLog._220603;
 using MStudyLog._220604;
+using MStudyLog._220605;
 
 namespace MStudyLog
 {
@@ -82,7 +83,7 @@ namespace MStudyLog
             //RefOut refOut = new RefOut();
 
             //结构体
-            T2Struct t2Struct = new T2Struct();
+            //T2Struct t2Struct = new T2Struct();
 
             //交错数组
             //T3StaggeredArray t3StaggeredArray = new T3StaggeredArray();
@@ -108,7 +109,8 @@ namespace MStudyLog
             // 斐波那契数 
             //Ts1Fib ts1Fib = new Ts1Fib(5);
 
-
+            //异步
+            Async async = new Async();
 
 
 

@@ -71,6 +71,7 @@
     <Compile Include="220604\T2HashSet.cs" />
     <Compile Include="220604\T3SortedList.cs" />
     <Compile Include="220604\Ts1Fib.cs" />
+    <Compile Include="220605\Async.cs" />
     <Compile Include="MainTS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -78,9 +79,7 @@
     <Content Include="220528\总结.txt" />
     <Content Include="XMLStudy\XMLFile1.xml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="220605\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
          Other similar extension points exist, see Microsoft.Common.targets.
