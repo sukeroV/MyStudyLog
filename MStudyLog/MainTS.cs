@@ -27,7 +27,6 @@ namespace MStudyLog
 
             //28课  协变，逆变
             //T4contravariant t4Contravariant = new T4contravariant();
-            //
 
             //29课  多线程
             // T5Process t5Process = new T5Process();
@@ -83,7 +82,7 @@ namespace MStudyLog
             //RefOut refOut = new RefOut();
 
             //结构体
-            //T2Struct t2Struct = new T2Struct();
+            T2Struct t2Struct = new T2Struct();
 
             //交错数组
             //T3StaggeredArray t3StaggeredArray = new T3StaggeredArray();
@@ -93,7 +92,6 @@ namespace MStudyLog
 
             //枚举练习题
             //T5EnumerateTS t5EnumerateTS = new T5EnumerateTS();
-
 
             //测试统计数字位数
             //NewTS newTS = new NewTS();
@@ -108,7 +106,7 @@ namespace MStudyLog
             //T3SortedList t3SortedList = new T3SortedList();
 
             // 斐波那契数 
-            Ts1Fib ts1Fib = new Ts1Fib(5);
+            //Ts1Fib ts1Fib = new Ts1Fib(5);
 
 
 

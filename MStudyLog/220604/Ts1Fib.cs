@@ -13,6 +13,8 @@ namespace MStudyLog._220604
             double dou = Math.Sqrt(5);
             double dou2 = (Math.Pow(((1 + dou) / 2), n)-Math.Pow(((1 - dou) / 2), n));
             Console.WriteLine( Math.Round(dou2/dou));
+            
+                
         }
     }
 }
