@@ -72,6 +72,11 @@
     <Compile Include="220604\T3SortedList.cs" />
     <Compile Include="220604\Ts1Fib.cs" />
     <Compile Include="220605\Async.cs" />
+    <Compile Include="220605\T2HashTable.cs" />
+    <Compile Include="220609\T1Fc.cs" />
+    <Compile Include="220609\T2Fc.cs" />
+    <Compile Include="220609\T3Internal.cs" />
+    <Compile Include="220609\T4Rewrite.cs" />
     <Compile Include="MainTS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

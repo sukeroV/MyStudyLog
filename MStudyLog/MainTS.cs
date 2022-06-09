@@ -7,6 +7,7 @@ using MStudyLog._220602;
 using MStudyLog._220603;
 using MStudyLog._220604;
 using MStudyLog._220605;
+using MStudyLog._220609;
 
 namespace MStudyLog
 {
@@ -110,8 +111,26 @@ namespace MStudyLog
             //Ts1Fib ts1Fib = new Ts1Fib(5);
 
             //异步
-            Async async = new Async();
+            //Async async = new Async();
 
+            //HashTable
+            //T2HashTable t2HashTable = new T2HashTable();
+
+            //构造函数 析构  垃圾回收
+            //T1Fc t1Fc = new T1Fc(12,"he");
+
+            //拓展方法
+            //T2Fc t2Fc = new T2Fc();
+
+            //内部类、分部类
+            //T3Internal t3Internal = new T3Internal();
+
+            //继承--会
+
+            //重写
+            //T4Rewrite t4Rewrite = new T4Rewrite();
+
+            
 
 
         }

@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+
+
 namespace MStudyLog._220605
 {
     class TS
@@ -33,16 +35,10 @@ namespace MStudyLog._220605
             TS tS = new TS();
             Thread thread = new Thread(tS.a);
             Thread thread2 = new Thread(tS.b);
-                      
+            Console.WriteLine( char.IsUpper('C') );
+            
             thread.Start();
-            thread2.Start();
-                
-                
-            
-            
-
-        }
-
-        
+            thread2.Start();                                                        
+        }        
     }
 }
